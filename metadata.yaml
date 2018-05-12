@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '28373'
     url: http://www.gutenberg.org/2009/agents/28373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44545#Nuori-luotsiNelin-yt-ksinen-kansann-ytelm-
 gutenberg_issued: '2013-12-30'
 gutenberg_type: Text
 identifiers:
